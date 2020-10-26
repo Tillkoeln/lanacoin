@@ -1,9 +1,9 @@
-Building Lanacoin
+Building Erexcoin
 
-See doc/readme-qt.rst for instructions on building Lanacoin QT,
+See doc/readme-qt.rst for instructions on building Erexcoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Lanacoin.
+implementation of Erexcoin.
 
-See doc/build-*.txt for instructions on building lanacoind,
+See doc/build-*.txt for instructions on building erexcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Lanacoin.
+implementation of Erexcoin.

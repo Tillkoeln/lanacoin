@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building Lanacoin QT, the
+See readme-qt.rst for instructions on building Erexcoin QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,9 +76,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-Lanacoin
+Erexcoin
 -------
 DOS prompt:
-cd \lanacoin\src
+cd \erexcoin\src
 mingw32-make -f makefile.mingw
-strip lanacoind.exe
+strip erexcoind.exe

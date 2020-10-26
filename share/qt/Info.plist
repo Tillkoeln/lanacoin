@@ -7,23 +7,23 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Lanacoin-Qt</string>
+	<string>Erexcoin-Qt</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Lanacoin-Qt</string>
+	<string>Erexcoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>co.lanacoin.Lanacoin-Qt</string>
+	<string>co.erexcoin.Erexcoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>co.lanacoin.LanacoinPayment</string>
+            <string>co.erexcoin.ErexcoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>lanacoin</string>
+              <string>erexcoin</string>
             </array>
           </dict>
         </array>

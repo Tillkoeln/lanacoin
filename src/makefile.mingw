@@ -95,7 +95,7 @@ ifeq (${USE_WALLET}, 1)
         obj/walletdb.o
 endif
 
-all: lanacoind.exe
+all: erexcoind.exe
 
 LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a
 DEFS += $(addprefix -I,$(CURDIR)/leveldb/include)
@@ -108,11 +108,11 @@ obj/txdb-leveldb.o: leveldb/libleveldb.a
 obj/%.o: %.cpp $(HEADERS)
 	g++ -c $(CFLAGS) -o $@ $<
 
-lanacoind.exe: $(OBJS:obj/%=obj/%)
+erexcoind.exe: $(OBJS:obj/%=obj/%)
 	g++ $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 clean:
-	-del /Q lanacoind
+	-del /Q erexcoind
 	-del /Q obj\*
 
 FORCE:

@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Lanacoin</source>
-        <translation>O Lanacoin</translation>
+        <source>About Erexcoin</source>
+        <translation>O Erexcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Lanacoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Lanacoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;Erexcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Erexcoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Lanacoin developers</source>
+Copyright © 2014 The Erexcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -58,8 +58,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Lanacoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši Lanacoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your Erexcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši Erexcoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -73,8 +73,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Lanacoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva Lanacoin naslova</translation>
+        <source>Sign a message to prove you own a Erexcoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Erexcoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -88,8 +88,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Lanacoin address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim Lanacoin naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified Erexcoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim Erexcoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -256,8 +256,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Lanacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Lanacoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>Erexcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Erexcoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -350,8 +350,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Lanacoin</source>
-        <translation>Pokaži informacije o Lanacoin</translation>
+        <source>Show information about Erexcoin</source>
+        <translation>Pokaži informacije o Erexcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -390,13 +390,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Lanacoin address</source>
-        <translation>Pošlji kovance na Lanacoin naslov</translation>
+        <source>Send coins to a Erexcoin address</source>
+        <translation>Pošlji kovance na Erexcoin naslov</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Lanacoin</source>
-        <translation>Spremeni nastavitve za Lanacoin</translation>
+        <source>Modify configuration options for Erexcoin</source>
+        <translation>Spremeni nastavitve za Erexcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -436,8 +436,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Lanacoin</source>
-        <translation>Lanacoin</translation>
+        <source>Erexcoin</source>
+        <translation>Erexcoin</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -446,8 +446,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Lanacoin</source>
-        <translation>&amp;O Lanacoin</translation>
+        <source>&amp;About Erexcoin</source>
+        <translation>&amp;O Erexcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -498,13 +498,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Lanacoin client</source>
-        <translation>Lanacoin program</translation>
+        <source>Erexcoin client</source>
+        <translation>Erexcoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Lanacoin network</source>
-        <translation><numerusform>%n aktivne povezave na Lanacoin omrežje</numerusform><numerusform>%n aktivnih povezav na Lanacoin omrežje</numerusform><numerusform>%n aktivnih povezav na Lanacoin omrežje</numerusform><numerusform>%n aktivnih povezav na Lanacoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to Erexcoin network</source>
+        <translation><numerusform>%n aktivne povezave na Erexcoin omrežje</numerusform><numerusform>%n aktivnih povezav na Erexcoin omrežje</numerusform><numerusform>%n aktivnih povezav na Erexcoin omrežje</numerusform><numerusform>%n aktivnih povezav na Erexcoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -598,8 +598,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Lanacoin address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega Lanacoin naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Erexcoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega Erexcoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -721,8 +721,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Lanacoin can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program Lanacoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. Erexcoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program Erexcoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1055,8 +1055,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Lanacoin address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven Lanacoin naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Erexcoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven Erexcoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1074,8 +1074,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Lanacoin-Qt</source>
-        <translation>Lanacoin-Qt</translation>
+        <source>Erexcoin-Qt</source>
+        <translation>Erexcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1147,13 +1147,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Lanacoin after logging in to the system.</source>
-        <translation>Avtomatično zaženi Lanacoin ob zagonu sistema.</translation>
+        <source>Automatically start Erexcoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi Erexcoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Lanacoin on system login</source>
-        <translation>&amp;Zaženi Lanacoin ob prijavi v sistem</translation>
+        <source>&amp;Start Erexcoin on system login</source>
+        <translation>&amp;Zaženi Erexcoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1162,8 +1162,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Lanacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za Lanacoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the Erexcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za Erexcoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1192,7 +1192,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Lanacoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Erexcoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1237,8 +1237,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Lanacoin.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu Lanacoin aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Erexcoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu Erexcoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1304,8 +1304,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Lanacoin.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu Lanacoin aplikacije</translation>
+        <source>This setting will take effect after restarting Erexcoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu Erexcoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1323,8 +1323,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lanacoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z Lanacoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Erexcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z Erexcoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1397,7 +1397,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start lanacoin: click-to-pay handler</source>
+        <source>Cannot start erexcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1565,8 +1565,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Lanacoin-Qt help message to get a list with possible Lanacoin command-line options.</source>
-        <translation>Prikaži Lanacoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice Lanacoin aplikacije</translation>
+        <source>Show the Erexcoin-Qt help message to get a list with possible Erexcoin command-line options.</source>
+        <translation>Prikaži Erexcoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice Erexcoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1585,13 +1585,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Lanacoin - Debug window</source>
-        <translation>Lanacoin - okno za odpravljanje napak</translation>
+        <source>Erexcoin - Debug window</source>
+        <translation>Erexcoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Lanacoin Core</source>
-        <translation>Lanacoin jedro</translation>
+        <source>Erexcoin Core</source>
+        <translation>Erexcoin jedro</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1600,8 +1600,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Lanacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri Lanacoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the Erexcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri Erexcoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1610,8 +1610,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Lanacoin RPC console.</source>
-        <translation>Dobrodošli v Lanacoin RPC konzoli.</translation>
+        <source>Welcome to the Erexcoin RPC console.</source>
+        <translation>Dobrodošli v Erexcoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1791,8 +1791,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Lanacoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite Lanacoin naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Erexcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Erexcoin naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1891,8 +1891,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Lanacoin address</source>
-        <translation>OPOZORILO: Neveljaven Lanacoin naslov</translation>
+        <source>WARNING: Invalid Erexcoin address</source>
+        <translation>OPOZORILO: Neveljaven Erexcoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1965,8 +1965,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Lanacoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite Lanacoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Erexcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Erexcoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2026,8 +2026,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Lanacoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva Lanacoin naslova</translation>
+        <source>Sign the message to prove you own this Erexcoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Erexcoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2058,8 +2058,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Lanacoin address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim Lanacoin naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified Erexcoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim Erexcoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2069,8 +2069,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Lanacoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite Lanacoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Erexcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Erexcoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2079,8 +2079,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Lanacoin signature</source>
-        <translation>Vnesite Lanacoin podpis</translation>
+        <source>Enter Erexcoin signature</source>
+        <translation>Vnesite Erexcoin podpis</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2658,8 +2658,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>Lanacoin version</source>
-        <translation>Lanacoin različica</translation>
+        <source>Erexcoin version</source>
+        <translation>Erexcoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2668,7 +2668,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or lanacoind</source>
+        <source>Send command to -server or erexcoind</source>
         <translation>Pošlji ukaz na -server ali blackoind</translation>
     </message>
     <message>
@@ -2688,13 +2688,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: lanacoin.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: lanacoin.conf)</translation>
+        <source>Specify configuration file (default: erexcoin.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: erexcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: lanacoind.pid)</source>
-        <translation>Določi pid datoteko (privzeto: lanacoin.pid)</translation>
+        <source>Specify pid file (default: erexcoind.pid)</source>
+        <translation>Določi pid datoteko (privzeto: erexcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2711,13 +2711,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=lanacoinrpc
+rpcuser=erexcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Lanacoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Erexcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2823,8 +2823,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Lanacoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Lanacoin will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno Lanacoin ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Erexcoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno Erexcoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3118,7 +3118,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Lanacoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Lanacoin is shutting down.</source>
+        <source>Initialization sanity check failed. Erexcoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3173,13 +3173,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Lanacoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Lanacoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo Lanacoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Erexcoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo Erexcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Lanacoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite Lanacoin za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart Erexcoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite Erexcoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3238,8 +3238,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Lanacoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. Lanacoin is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča Lanacoin aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. Erexcoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča Erexcoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3273,7 +3273,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Lanacoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Lanacoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Erexcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

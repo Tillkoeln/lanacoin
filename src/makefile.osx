@@ -3,7 +3,7 @@
 # Distributed under the MIT/X11 software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-# Mac OS X makefile for lanacoin
+# Mac OS X makefile for erexcoin
 # Originally by Laszlo Hanyecz (solar@heliacal.net)
 
 CXX=llvm-g++
@@ -25,7 +25,7 @@ USE_WALLET:=1
 LIBS= -dead_strip
 
 ifdef STATIC
-# Build STATIC if you are redistributing the lanacoind binary
+# Build STATIC if you are redistributing the erexcoind binary
 LIBS += \
  -l rt \
  $(DEPSDIR)/lib/db48/libdb_cxx-4.8.a \
@@ -124,7 +124,7 @@ else
 endif
 endif
 
-all: lanacoind
+all: erexcoind
 
 LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a
 DEFS += $(addprefix -I,$(CURDIR)/leveldb/include)
@@ -149,11 +149,11 @@ obj/%.o: %.cpp
 	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
 	  rm -f $(@:%.o=%.d)
 
-lanacoind: $(OBJS:obj/%=obj/%)
+erexcoind: $(OBJS:obj/%=obj/%)
 	$(CXX) $(CFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 clean:
-	-rm -f lanacoind
+	-rm -f erexcoind
 	-rm -f obj/*.o
 	-rm -f obj/*.P
 	-rm -f obj/build.h

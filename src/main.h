@@ -42,19 +42,19 @@ static const unsigned int DEFAULT_MAX_ORPHAN_BLOCKS = 40;
 /** The maximum number of entries in an 'inv' protocol message */
 static const unsigned int MAX_INV_SZ = 50000;
 /** Fees smaller than this (in satoshi) are considered zero fee (for transaction creation) */
-static const int64_t MIN_TX_FEE = 0.00000100 * COIN;
+static const int64_t MIN_TX_FEE = 0.00100000 * COIN;
 /** Fees smaller than this (in satoshi) are considered zero fee (for relaying) */
 static const int64_t MIN_RELAY_TX_FEE = MIN_TX_FEE;
 /** No amount larger than this (in satoshi) is valid */
-static const int64_t MAX_MONEY = 7506000000 * COIN; //total of 7,506 billion coins
+static const int64_t MAX_MONEY = 20000000 * COIN;
 inline bool MoneyRange(int64_t nValue) { return (nValue >= 0 && nValue <= MAX_MONEY); }
 /** Threshold for nLockTime: below this value it is interpreted as block number, otherwise as UNIX timestamp. */
-static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20 1985 UTC
+static const unsigned int LOCKTIME_THRESHOLD = 500000000; 
 
-static const int64_t COIN_YEAR_REWARD = 7 * CENT; // 7% per year
+static const int64_t COIN_YEAR_REWARD = 10 * CENT;
 
 inline int64_t FutureDrift(int64_t nTime) { return nTime + 60 * 60 * 20; }
-inline unsigned int GetTargetSpacing(int nHeight) { return 300; } // Block target during PoW phase is 2,5min, after PoW its 5min
+inline unsigned int GetTargetSpacing(int nHeight) { return 60; }
 
 extern CScript COINBASE_FLAGS;
 extern CCriticalSection cs_main;

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Lanacoin</source>
-        <translation>Lanacoin Hakkında</translation>
+        <source>About Erexcoin</source>
+        <translation>Erexcoin Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Lanacoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Lanacoin&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;Erexcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Erexcoin&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Lanacoin developers</source>
+Copyright © 2014 The Erexcoin developers</source>
         <translation>Telif Hakkı © 2009-2014 Bitcoin geliştiricileri
 Telif Hakkı © 2012-2014 NovaCoin geliştiricileri
-Telif Hakkı © 2014 Lanacoin geliştiricileri</translation>
+Telif Hakkı © 2014 Erexcoin geliştiricileri</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Lanacoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için Lanacoin adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your Erexcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için Erexcoin adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -80,8 +80,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Lanacoin address</source>
-        <translation>Bir Lanacoin adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a Erexcoin address</source>
+        <translation>Bir Erexcoin adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Lanacoin address</source>
-        <translation>Mesajın, belirli bir Lanacoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified Erexcoin address</source>
+        <translation>Mesajın, belirli bir Erexcoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+82"/>
-        <source>Lanacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Lanacoin, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>Erexcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Erexcoin, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -357,8 +357,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Lanacoin</source>
-        <translation>Lanacoin hakkındaki bilgiyi göster</translation>
+        <source>Show information about Erexcoin</source>
+        <translation>Erexcoin hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -397,13 +397,13 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Lanacoin address</source>
-        <translation>Bir Lanacoin adresine coin gönder</translation>
+        <source>Send coins to a Erexcoin address</source>
+        <translation>Bir Erexcoin adresine coin gönder</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Lanacoin</source>
-        <translation>Lanacoin yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for Erexcoin</source>
+        <translation>Erexcoin yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -443,8 +443,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Lanacoin</source>
-        <translation>Lanacoin</translation>
+        <source>Erexcoin</source>
+        <translation>Erexcoin</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -453,8 +453,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Lanacoin</source>
-        <translation>Lanacoin &amp;Hakkında</translation>
+        <source>&amp;About Erexcoin</source>
+        <translation>Erexcoin &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -505,13 +505,13 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Lanacoin client</source>
-        <translation>Lanacoin istemcisi</translation>
+        <source>Erexcoin client</source>
+        <translation>Erexcoin istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Lanacoin network</source>
-        <translation><numerusform>Lanacoin ağına %n etkin bağlantı</numerusform><numerusform>Lanacoin ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to Erexcoin network</source>
+        <translation><numerusform>Erexcoin ağına %n etkin bağlantı</numerusform><numerusform>Erexcoin ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -605,8 +605,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Lanacoin address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir Lanacoin adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Erexcoin address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir Erexcoin adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -728,8 +728,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Lanacoin can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. Lanacoin artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. Erexcoin can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. Erexcoin artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Lanacoin address.</source>
-        <translation>Girilen %1 adresi, geçerli bir Lanacoin adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Erexcoin address.</source>
+        <translation>Girilen %1 adresi, geçerli bir Erexcoin adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Lanacoin-Qt</source>
-        <translation>Lanacoin-Qt</translation>
+        <source>Erexcoin-Qt</source>
+        <translation>Erexcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Lanacoin after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra Lanacoin&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start Erexcoin after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra Erexcoin&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Lanacoin on system login</source>
-        <translation>Sisteme girişte Lanacoin&apos;i &amp;başlat</translation>
+        <source>&amp;Start Erexcoin on system login</source>
+        <translation>Sisteme girişte Erexcoin&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1169,8 +1169,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Lanacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide Lanacoin istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the Erexcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide Erexcoin istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1199,7 +1199,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Lanacoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Erexcoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1244,8 +1244,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Lanacoin.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, Lanacoin yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Erexcoin.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, Erexcoin yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1311,8 +1311,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Lanacoin.</source>
-        <translation>Bu ayar, Lanacoin&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
+        <source>This setting will take effect after restarting Erexcoin.</source>
+        <translation>Bu ayar, Erexcoin&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1330,8 +1330,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lanacoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak Lanacoin ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Erexcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak Erexcoin ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1404,8 +1404,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start lanacoin: click-to-pay handler</source>
-        <translation>Lanacoin: tıkla-ve-öde işleyicisi başlatılamıyor</translation>
+        <source>Cannot start erexcoin: click-to-pay handler</source>
+        <translation>Erexcoin: tıkla-ve-öde işleyicisi başlatılamıyor</translation>
     </message>
 </context>
 <context>
@@ -1572,8 +1572,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Lanacoin-Qt help message to get a list with possible Lanacoin command-line options.</source>
-        <translation>Muhtemel Lanacoin komut satırı seçeneklerinin bir listesini getirmek için Lanacoin-Qt yardım mesajını göster</translation>
+        <source>Show the Erexcoin-Qt help message to get a list with possible Erexcoin command-line options.</source>
+        <translation>Muhtemel Erexcoin komut satırı seçeneklerinin bir listesini getirmek için Erexcoin-Qt yardım mesajını göster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1592,13 +1592,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Lanacoin - Debug window</source>
-        <translation>Lanacoin - Hata ayıklama penceresi</translation>
+        <source>Erexcoin - Debug window</source>
+        <translation>Erexcoin - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Lanacoin Core</source>
-        <translation>Lanacoin Core</translation>
+        <source>Erexcoin Core</source>
+        <translation>Erexcoin Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1607,8 +1607,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Lanacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Lanacoin hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the Erexcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Erexcoin hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1617,8 +1617,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Lanacoin RPC console.</source>
-        <translation>Lanacoin RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the Erexcoin RPC console.</source>
+        <translation>Erexcoin RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1798,8 +1798,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Lanacoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Lanacoin adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Erexcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir Erexcoin adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1898,8 +1898,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Lanacoin address</source>
-        <translation>UYARI: Geçersiz Lanacoin adresi</translation>
+        <source>WARNING: Invalid Erexcoin address</source>
+        <translation>UYARI: Geçersiz Erexcoin adresi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1972,8 +1972,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Lanacoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Lanacoin adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Erexcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir Erexcoin adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2033,8 +2033,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Lanacoin address</source>
-        <translation>Bu Lanacoin adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this Erexcoin address</source>
+        <translation>Bu Erexcoin adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2065,8 +2065,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Lanacoin address</source>
-        <translation>Mesajın, belirtilen Lanacoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify the message to ensure it was signed with the specified Erexcoin address</source>
+        <translation>Mesajın, belirtilen Erexcoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2076,8 +2076,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Lanacoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Lanacoin adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Erexcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir Erexcoin adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2086,8 +2086,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Lanacoin signature</source>
-        <translation>Lanacoin imzası gir</translation>
+        <source>Enter Erexcoin signature</source>
+        <translation>Erexcoin imzası gir</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2665,8 +2665,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>Lanacoin version</source>
-        <translation>Lanacoin versiyonu</translation>
+        <source>Erexcoin version</source>
+        <translation>Erexcoin versiyonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2675,8 +2675,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or lanacoind</source>
-        <translation>-sunucu veya lanacoind&apos;ye komut gönder</translation>
+        <source>Send command to -server or erexcoind</source>
+        <translation>-sunucu veya erexcoind&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2695,13 +2695,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: lanacoin.conf)</source>
-        <translation>Konfigürasyon dosyasını belirt (varsayılan: lanacoin.conf)</translation>
+        <source>Specify configuration file (default: erexcoin.conf)</source>
+        <translation>Konfigürasyon dosyasını belirt (varsayılan: erexcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: lanacoind.pid)</source>
-        <translation>pid dosyasını belirt (varsayılan: lanacoin.pid)</translation>
+        <source>Specify pid file (default: erexcoind.pid)</source>
+        <translation>pid dosyasını belirt (varsayılan: erexcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2718,24 +2718,24 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=lanacoinrpc
+rpcuser=erexcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Lanacoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Erexcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, konfigürasyon dosyasında bir rpcpassword belirlemelisiniz: 
 %s
 Aşağıdaki rastgele şifreyi kullanmanız tavsiye edilir:
-rpcuser=lanacoinrpc
+rpcuser=erexcoinrpc
 rpcpassword=%s
 (bu şifreyi hatırlamanız gerekmemektedir)
 Kullanıcı adı ve şifre aynı OLMAMALIDIR.
 Dosya mevcut değilse, sadece sahibi tarafından okunabilir yetkiyle yaratın.
 Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanız önerilir;
-örneğin: alertnotify=echo %%s | mail -s &quot;Lanacoin Alarmı&quot; admin@foo.com
+örneğin: alertnotify=echo %%s | mail -s &quot;Erexcoin Alarmı&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2840,8 +2840,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Lanacoin will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, Lanacoin düzgün çalışmayacaktır.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Erexcoin will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, Erexcoin düzgün çalışmayacaktır.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3135,8 +3135,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Lanacoin is shutting down.</source>
-        <translation>Başlangıç uygunluk kontrolü başarısız oldu. Lanacoin kapatılıyor.</translation>
+        <source>Initialization sanity check failed. Erexcoin is shutting down.</source>
+        <translation>Başlangıç uygunluk kontrolü başarısız oldu. Erexcoin kapatılıyor.</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -3190,13 +3190,13 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Lanacoin</source>
-        <translation>wallet.dat yüklenirken hata: Cüzdan, daha yeni bir Lanacoin versiyonuna ihtiyaç duyuyor.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Erexcoin</source>
+        <translation>wallet.dat yüklenirken hata: Cüzdan, daha yeni bir Erexcoin versiyonuna ihtiyaç duyuyor.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Lanacoin to complete</source>
-        <translation>Cüzdanın yeniden yazılması gerekmektedir: Tamamlamak için Lanacoin&apos;i yeniden başlatın</translation>
+        <source>Wallet needed to be rewritten: restart Erexcoin to complete</source>
+        <translation>Cüzdanın yeniden yazılması gerekmektedir: Tamamlamak için Erexcoin&apos;i yeniden başlatın</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. Lanacoin is probably already running.</source>
-        <translation>Bu bilgisayarda %s bağlanamadı. Lanacoin muhtemelen halen çalışmaktadır.</translation>
+        <source>Unable to bind to %s on this computer. Erexcoin is probably already running.</source>
+        <translation>Bu bilgisayarda %s bağlanamadı. Erexcoin muhtemelen halen çalışmaktadır.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3290,8 +3290,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Lanacoin is probably already running.</source>
-        <translation>Veri klasörü %s üzerinde kilit elde edilemedi. Lanacoin muhtemelen halen çalışmaktadır.</translation>
+        <source>Cannot obtain a lock on data directory %s. Erexcoin is probably already running.</source>
+        <translation>Veri klasörü %s üzerinde kilit elde edilemedi. Erexcoin muhtemelen halen çalışmaktadır.</translation>
     </message>
     <message>
         <location line="+4"/>

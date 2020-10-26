@@ -22,7 +22,7 @@ using namespace std;
 using namespace boost;
 
 #if defined(NDEBUG)
-# error "Lanacoin cannot be compiled without assertions."
+# error "Erexcoin cannot be compiled without assertions."
 #endif
 
 //
@@ -41,10 +41,10 @@ set<pair<COutPoint, unsigned int> > setStakeSeen;
 
 CBigNum bnProofOfStakeLimit(~uint256(0) >> 48);
 
-unsigned int nStakeMinAge = 7 * 60 * 60; // 7 hours
-unsigned int nModifierInterval = 10 * 60; // time to elapse before new modifier is computed
+unsigned int nStakeMinAge = 30 * 60; // 30 Minutes
+unsigned int nModifierInterval = 5 * 60; // time to elapse before new modifier is computed
 
-int nCoinbaseMaturity = 15;
+int nCoinbaseMaturity = 30;
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 
@@ -75,7 +75,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Lanacoin Signed Message:\n";
+const string strMessageMagic = "Erexcoin Signed Message:\n";
 
 //////////////////////////////////////////////////////////////////////////////
 //
@@ -991,19 +991,15 @@ static CBigNum GetProofOfStakeLimit(int nHeight)
 // miner's coin base reward
 int64_t GetProofOfWorkReward(int64_t nFees)
 {
-    int64_t nSubsidy = 10000 * COIN;
-
+    int64_t nSubsidy = 100000 * COIN;
     LogPrint("creation", "GetProofOfWorkReward() : create=%s nSubsidy=%d\n", FormatMoney(nSubsidy), nSubsidy);
-
     return nSubsidy + nFees;
 }
 
 // miner's coin stake reward
 int64_t GetProofOfStakeReward(const CBlockIndex* pindexPrev, int64_t nCoinAge, int64_t nFees)
 {
-  int64_t nSubsidyFixed = 1000 * COIN;
-
-  nSubsidyFixed >>= (pindexBest->nHeight / 525600);
+  int64_t nSubsidyFixed = 1 * COIN;
 
   int64_t nSubsidy = nSubsidyFixed + nCoinAge * COIN_YEAR_REWARD * 33 / (365 * 33 + 8);
 
@@ -1012,7 +1008,7 @@ int64_t GetProofOfStakeReward(const CBlockIndex* pindexPrev, int64_t nCoinAge, i
   return nSubsidy + nFees;
 }
 
-static const int64_t nTargetTimespan = 16 * 60;  // 16 mins
+static const int64_t nTargetTimespan = 3.5 * 60;  // 3.5 mins
 
 // ppcoin: find last block index up to pindex
 const CBlockIndex* GetLastBlockIndex(const CBlockIndex* pindex, bool fProofOfStake)
@@ -2618,7 +2614,7 @@ struct CImportingNow
 
 void ThreadImport(std::vector<boost::filesystem::path> vImportFiles)
 {
-    RenameThread("lanacoin-loadblk");
+    RenameThread("erexcoin-loadblk");
 
     CImportingNow imp;
 
